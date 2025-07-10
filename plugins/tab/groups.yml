@@ -1,0 +1,62 @@
+_DEFAULT_:
+  tabprefix: "&8[&4&l✘&8] &f"
+  tagprefix: "&8[&4&l✘&8] &f"
+  customtabname: "%player_displayname%"
+  customtagname: "%player_displayname%" # don't forget to enable unlimited nametag mode to make this one work
+  tabsuffix: ''
+  tagsuffix: ''
+  belowname: "&c%statistic_player_kills% &4⚔ &8| &f%math_0_{player_health}/2% &4❤ &8| &c%statistic_deaths% &4☠ %luckperms-suffix%"
+
+vip:
+  tabprefix: "&8[&b&lVIP&8] &b"
+  tagprefix: "&8[&b&lVIP&8] &b"
+  customtabname: "%player_displayname%"
+  customtagname: "%player_displayname%" # don't forget to enable unlimited nametag mode to make this one work
+  tabsuffix: ''
+  tagsuffix: ''
+  belowname: "&c%statistic_player_kills% &4⚔ &8| &f%math_0_{player_health}/2% &4❤ &8| &c%statistic_deaths% &4☠ %luckperms-suffix%"
+  
+mvp:
+  tabprefix: "&8[&a&lMVP&8] &a"
+  tagprefix: "&8[&a&lMVP&8] &a"
+  customtabname: "%player_displayname%"
+  customtagname: "%player_displayname%" # don't forget to enable unlimited nametag mode to make this one work
+  tabsuffix: ''
+  tagsuffix: ''
+  belowname: "&c%statistic_player_kills% &4⚔ &8| &f%math_0_{player_health}/2% &4❤ &8| &c%statistic_deaths% &4☠ %luckperms-suffix%"
+  
+mvp+:
+  tabprefix: "&8[&#FBEB08&lMVP+&8] &#FBEB08"
+  tagprefix: "&8[&#FBEB08&lMVP+&8] &#FBEB08"
+  customtabname: "%player_displayname%"
+  customtagname: "%player_displayname%" # don't forget to enable unlimited nametag mode to make this one work
+  tabsuffix: ''
+  tagsuffix: ''
+  belowname: "&c%statistic_player_kills% &4⚔ &8| &f%math_0_{player_health}/2% &4❤ &8| &c%statistic_deaths% &4☠ %luckperms-suffix%"
+  
+omega:
+  tabprefix: "&8[&#087BFB&lOMEGA&8] #087BFB"
+  tagprefix: "&8[&#087BFB&lOMEGA&8] #087BFB"
+  customtabname: "%player_displayname%"
+  customtagname: "%player_displayname%" # don't forget to enable unlimited nametag mode to make this one work
+  tabsuffix: ''
+  tagsuffix: ''
+  belowname: "&c%statistic_player_kills% &4⚔ &8| &f%math_0_{player_health}/2% &4❤ &8| &c%statistic_deaths% &4☠ %luckperms-suffix%"
+
+beta:
+  tabprefix: "&8[&4&lBETA&8] &4"
+  tagprefix: "&8[&4&lBETA&8] &4"
+  customtabname: "%player_displayname%"
+  customtagname: "%player_displayname%" # don't forget to enable unlimited nametag mode to make this one work
+  tabsuffix: ''
+  tagsuffix: ''
+  belowname: "&c%statistic_player_kills% &4⚔ &8| &f%math_0_{player_health}/2% &4❤ &8| &c%statistic_deaths% &4☠ %luckperms-suffix%"
+
+alfa:
+  tabprefix: "&8[&#FB08CD&lALFA&8] &#FB08CD"
+  tagprefix: "&8[&#FB08CD&lALFA&8] &#FB08CD"
+  customtabname: "%player_displayname%"
+  customtagname: "%player_displayname%" # don't forget to enable unlimited nametag mode to make this one work
+  tabsuffix: ''
+  tagsuffix: ''
+  belowname: "&c%statistic_player_kills% &4⚔ &8| &f%math_0_{player_health}/2% &4❤ &8| &c%statistic_deaths% &4☠ %luckperms-suffix%"

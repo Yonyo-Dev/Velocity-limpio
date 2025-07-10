@@ -1,0 +1,57 @@
+[2024/07/12 03:26:17]: §9          __             _       
+[2024/07/12 03:26:17]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/07/12 03:26:17]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/07/12 03:26:17]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/07/12 03:26:17]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/07/12 03:26:17]: §9                  |___/            
+[2024/07/12 03:26:17]: §9 By: www.nickuc.com - V 10.3.28
+[2024/07/12 03:26:17]: §9 
+[2024/07/12 03:26:18]: §3[nLogin] [DEBUG] All settings were loaded in 702 ms.
+[2024/07/12 03:26:18]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/07/12 03:26:18]: §3[nLogin] [DEBUG] All plugin messages were loaded in 288 ms (languageByClient=false).
+[2024/07/12 03:26:18]: §3[nLogin] [DEBUG] All proxy settings were loaded in 6 ms.
+[2024/07/12 03:26:18]: §3[nLogin] [DEBUG] Loading database...
+[2024/07/12 03:26:19]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/07/12 03:26:24]: 
+[2024/07/12 03:26:24]:  §bThank you so much for choosing nLogin! §4<3
+[2024/07/12 03:26:24]: 
+[2024/07/12 03:26:24]:  §4For your safety, please read the message below:
+[2024/07/12 03:26:24]:   §cNever download nLogin from unknown sources.
+[2024/07/12 03:26:24]:   §cA modified version may contain malicious software.
+[2024/07/12 03:26:24]: 
+[2024/07/12 03:26:24]:  §3Trusted sources:
+[2024/07/12 03:26:24]:   §bwww.nickuc.com
+[2024/07/12 03:26:24]:   §bwww.github.com/nickuc
+[2024/07/12 03:26:24]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2024/07/12 03:26:24]: 
+[2024/07/12 03:26:24]:  §3Official support channels:
+[2024/07/12 03:26:24]:   §bDiscord group: §fwww.nickuc.com/discord
+[2024/07/12 03:26:24]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2024/07/12 03:26:24]:   §bEmail: §fsupport@nickuc.com
+[2024/07/12 03:26:24]:   §bYouTube: §fyoutube.com/nickuc
+[2024/07/12 03:26:24]: 
+[2024/07/12 03:26:24]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2024/07/12 03:26:24]:  §eand click the "Setup plugin" button to configure your plugin.
+[2024/07/12 03:26:24]: 
+[2024/07/12 03:29:24]: [nLogin] Download finished (took 333ms, hash = bcdd0d07f4e3098e91cba27994818024b78ad4e137c7b7eb64a04b4aa8b23c2b)
+[2024/07/12 03:29:39]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('AlexHDs', 87e1671421103f25b9e2e861600723ac, null, null, '$SHA512$615806123bfa04ef700316b0b44da34e83ee68af6295340f5dfab7a301e4871ce8b330d46fd235d1cc400465c2ba0e266a51ac0b498239ea4624efde89507c8a$jsMVYSwiycCLPTTenkPchLXw', '201.152.63.144', '2024-07-12 03:29:39.585', '2024-07-12 03:29:39.585', null, null, null)" (applied to all columns)
+[2024/07/12 03:29:39]: [nLogin] The user AlexHDs has successfully registered.
+[2024/07/12 03:30:15]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AlexHDs', `unique_id` = 87e1671421103f25b9e2e861600723ac,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$615806123bfa04ef700316b0b44da34e83ee68af6295340f5dfab7a301e4871ce8b330d46fd235d1cc400465c2ba0e266a51ac0b498239ea4624efde89507c8a$jsMVYSwiycCLPTTenkPchLXw', `last_ip` = '201.152.63.144', `creation_date` = 2024-07-12 03:29:39.585, `last_seen` = 2024-07-12 03:30:15.777, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"skyblock","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 445" (applied to [last_seen, settings] columns)
+[2024/07/12 03:33:30]: §3[nLogin] [DEBUG] The AlexHDs (201.152.63.144) player entered an incorrect password
+[2024/07/12 03:35:45]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('Heztak', 58743acae46d324f9e3471faa582a43a, null, null, '$SHA512$59b459641fa48610360c59ca96d03baec3f61e8bd2c6c37518f76236480d782707da699ad0096dfe90691240616d24f016a0d75a053cab166638547a6af897f8$yzMDYNIjrcwSVhcrtdRmeKzc', '190.20.247.224', '2024-07-12 03:35:45.068', '2024-07-12 03:35:45.068', null, null, null)" (applied to all columns)
+[2024/07/12 03:35:45]: [nLogin] The user Heztak has successfully registered.
+[2024/07/12 03:36:02]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Heztak', `unique_id` = 58743acae46d324f9e3471faa582a43a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$59b459641fa48610360c59ca96d03baec3f61e8bd2c6c37518f76236480d782707da699ad0096dfe90691240616d24f016a0d75a053cab166638547a6af897f8$yzMDYNIjrcwSVhcrtdRmeKzc', `last_ip` = '190.20.247.224', `creation_date` = 2024-07-12 03:35:45.068, `last_seen` = 2024-07-12 03:36:02.212, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 446" (applied to [last_seen, settings] columns)
+[2024/07/12 03:36:12]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Heztak', `unique_id` = 58743acae46d324f9e3471faa582a43a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$59b459641fa48610360c59ca96d03baec3f61e8bd2c6c37518f76236480d782707da699ad0096dfe90691240616d24f016a0d75a053cab166638547a6af897f8$yzMDYNIjrcwSVhcrtdRmeKzc', `last_ip` = '190.20.247.224', `creation_date` = 2024-07-12 03:35:45.068, `last_seen` = 2024-07-12 03:36:12.708, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 446" (applied to [last_ip, last_seen, settings] columns)
+[2024/07/12 03:36:12]: [nLogin] The user Heztak has successfully logged in.
+[2024/07/12 03:36:15]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AlexHDs', `unique_id` = 87e1671421103f25b9e2e861600723ac,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$615806123bfa04ef700316b0b44da34e83ee68af6295340f5dfab7a301e4871ce8b330d46fd235d1cc400465c2ba0e266a51ac0b498239ea4624efde89507c8a$jsMVYSwiycCLPTTenkPchLXw', `last_ip` = '201.152.63.144', `creation_date` = 2024-07-12 03:29:39.585, `last_seen` = 2024-07-12 03:36:15.775, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"skyblock","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 445" (applied to [last_ip, last_seen, settings] columns)
+[2024/07/12 03:36:15]: [nLogin] The user AlexHDs has successfully logged in.
+[2024/07/12 03:39:36]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Heztak', `unique_id` = 58743acae46d324f9e3471faa582a43a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$59b459641fa48610360c59ca96d03baec3f61e8bd2c6c37518f76236480d782707da699ad0096dfe90691240616d24f016a0d75a053cab166638547a6af897f8$yzMDYNIjrcwSVhcrtdRmeKzc', `last_ip` = '190.20.247.224', `creation_date` = 2024-07-12 03:35:45.068, `last_seen` = 2024-07-12 03:39:36.913, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"skyblock","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 446" (applied to [last_seen, settings] columns)
+[2024/07/12 03:39:43]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Heztak', `unique_id` = 58743acae46d324f9e3471faa582a43a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$59b459641fa48610360c59ca96d03baec3f61e8bd2c6c37518f76236480d782707da699ad0096dfe90691240616d24f016a0d75a053cab166638547a6af897f8$yzMDYNIjrcwSVhcrtdRmeKzc', `last_ip` = '190.20.247.224', `creation_date` = 2024-07-12 03:35:45.068, `last_seen` = 2024-07-12 03:39:43.882, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"skyblock","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 446" (applied to [last_ip, last_seen, settings] columns)
+[2024/07/12 03:39:43]: [nLogin] The user Heztak has successfully logged in.
+[2024/07/12 03:40:43]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AlexHDs', `unique_id` = 87e1671421103f25b9e2e861600723ac,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$615806123bfa04ef700316b0b44da34e83ee68af6295340f5dfab7a301e4871ce8b330d46fd235d1cc400465c2ba0e266a51ac0b498239ea4624efde89507c8a$jsMVYSwiycCLPTTenkPchLXw', `last_ip` = '201.152.63.144', `creation_date` = 2024-07-12 03:29:39.585, `last_seen` = 2024-07-12 03:40:43.212, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 445" (applied to [last_seen, settings] columns)
+[2024/07/12 03:40:51]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AlexHDs', `unique_id` = 87e1671421103f25b9e2e861600723ac,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$615806123bfa04ef700316b0b44da34e83ee68af6295340f5dfab7a301e4871ce8b330d46fd235d1cc400465c2ba0e266a51ac0b498239ea4624efde89507c8a$jsMVYSwiycCLPTTenkPchLXw', `last_ip` = '201.152.63.144', `creation_date` = 2024-07-12 03:29:39.585, `last_seen` = 2024-07-12 03:40:51.507, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 445" (applied to [last_ip, last_seen, settings] columns)
+[2024/07/12 03:40:51]: [nLogin] The user AlexHDs has successfully logged in.
+[2024/07/12 03:44:34]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AlexHDs', `unique_id` = 87e1671421103f25b9e2e861600723ac,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$615806123bfa04ef700316b0b44da34e83ee68af6295340f5dfab7a301e4871ce8b330d46fd235d1cc400465c2ba0e266a51ac0b498239ea4624efde89507c8a$jsMVYSwiycCLPTTenkPchLXw', `last_ip` = '201.152.63.144', `creation_date` = 2024-07-12 03:29:39.585, `last_seen` = 2024-07-12 03:44:34.242, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 445" (applied to [last_seen, settings] columns)
+[2024/07/12 03:44:34]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Heztak', `unique_id` = 58743acae46d324f9e3471faa582a43a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$59b459641fa48610360c59ca96d03baec3f61e8bd2c6c37518f76236480d782707da699ad0096dfe90691240616d24f016a0d75a053cab166638547a6af897f8$yzMDYNIjrcwSVhcrtdRmeKzc', `last_ip` = '190.20.247.224', `creation_date` = 2024-07-12 03:35:45.068, `last_seen` = 2024-07-12 03:44:34.242, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 446" (applied to [last_seen, settings] columns)
+[2024/07/12 03:44:36]: [nLogin] Update was successfully queued, do not forcibly stop your server. (v10.3.28 fce384 => v10.3.28 fce384)
+[2024/07/12 03:44:36]: [nLogin] Successful plugin core shutdown (took 0.02s)
